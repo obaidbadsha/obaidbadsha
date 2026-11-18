@@ -50,16 +50,6 @@ I am currently building <a href="https://smart-shop-six-opal.vercel.app/" target
 </div>
 <!-- End Visitor Count -->
 
-<!-- START My Github Profile Trophy SECTION -->
-<div align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px" alt="Trophy">
-<h2 align="center">My GitHub Profile Trophy</h2>
-<p align="center">
-  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=obaidbadsha&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-</div>
-<!-- END My Github Profile Trophy SECTION -->
-
 <!-- START GitHub Stats SECTION -->
 <div align="center">
 <h2 align="center">My GitHub Stats</h2>
